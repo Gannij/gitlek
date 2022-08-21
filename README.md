@@ -1,7 +1,5 @@
-# gitlek
+# gitlek>
 
-<html>
-<head>
 <H1>gitlek</H1>
 
 ## gitlek
@@ -10,6 +8,8 @@
 
 [min github](http://www.github.com/gannij)
 
+<html>
+<head>
 1. elion
 2. leona
 
@@ -20,6 +20,9 @@
 * äpple
 * päron
 * banan
+
+</head>
+</html>
 
 > Vi uppdaterar våra villkor
 Som en del i vårt arbete med att förbättra upplevelsen med vår kundtjänst, uppdaterar vi villkoren för Microsoft-tjänster. Vi vill nu passa på att meddela dig om uppdateringen.ganni.b@outlook.com
@@ -33,6 +36,3 @@ Som en del i vårt arbete med att förbättra upplevelsen med vår kundtjänst, 
   "lastName": "Hoti",
   "age": 25
 }
-
-</head>
-</html>
