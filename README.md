@@ -21,6 +21,7 @@ hejhej
 - circlek tyresö
 - circle k midsommarkransen
 
+<img src="http://3hus.se/wp-content/uploads/2017/01/3hus_logo_low.jpg" alt="Italian Trulli"/>
 * äpple
 * päron
 * banan>
