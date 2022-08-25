@@ -31,6 +31,9 @@ hejhej
 ## userstory 5
 [heja akalla ](https://ortenrunt.se/akalla/).
 
+## userstory 6
+  A[hejdå] --> B{hej}
+
 > Vi uppdaterar våra villkor
 Som en del i vårt arbete med att förbättra upplevelsen med vår kundtjänst, uppdaterar vi villkoren för Microsoft-tjänster. Vi vill nu passa på att meddela dig om uppdateringen.ganni.b@outlook.com
 Vi uppdaterar våra villkor
